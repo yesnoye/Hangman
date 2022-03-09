@@ -1,0 +1,7 @@
+cow
+cat
+dog
+sheep
+shulker
+duck
+chicken
